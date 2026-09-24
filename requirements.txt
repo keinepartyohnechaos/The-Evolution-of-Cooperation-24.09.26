@@ -1,0 +1,6 @@
+axelrod
+jupyterlab
+ipykernel
+pandas
+matplotlib
+seaborn
